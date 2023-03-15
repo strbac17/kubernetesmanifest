@@ -19,7 +19,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: strbac17/gitsecops_test:73
+      - image: strbac17/gitsecops_test:74
         name: flaskdemo
         resources: {}
 status: {}
